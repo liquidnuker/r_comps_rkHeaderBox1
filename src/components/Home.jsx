@@ -8,10 +8,7 @@ export default function Home(props) {
     {/*RkHeaderBox101*/}
     <h2 className="item-id">RkHeaderBox101</h2>
     <div className="row">  
-      <div className="col-sm-3">
-        39
-      </div>  
-      <div className="col-sm-9">
+      <div className="col-sm-12">
         <RkHeaderBox101 />
       </div>
     </div> 
@@ -19,10 +16,7 @@ export default function Home(props) {
     {/*RkHeaderBox102*/}
     <h2 className="item-id">RkHeaderBox102</h2>
     <div className="row">  
-      <div className="col-sm-3">
-        39
-      </div>  
-      <div className="col-sm-9">
+      <div className="col-sm-12">
         <RkHeaderBox102 />
       </div>
     </div> 
